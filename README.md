@@ -7,7 +7,7 @@ The gantt was created in google-sheets and
 | Format | USA - 12 Month | EU - 12 Month | ME - 12 Month |
 | :----- | :----- | :----- | :----- |
 | Google Sheets | [USA, 12 month](https://docs.google.com/spreadsheets/d/1eCM4k0uaRClZ3GC3iBRN5yrVVSwb-O0PIE4CuOc7I18/edit?usp=sharing) | ... | ... |
-| Excel | [USA, 12 month](./EazyGantt%20(USA%2C%20Day%2C%2012%20month).xlsx) | ... | ... |
+| Excel | [USA, 12 month](https://github.com/eazyappz/eazy-gantt/raw/master/EazyGantt%20(USA%2C%20Day%2C%2012%20month).xlsx) | ... | ... |
 
 ## Donate
 You are more than welcome to use and distribute the workbook as much as you like, for free. However, I'm not so proud that I won't accept a gift if you'd like to give one.
